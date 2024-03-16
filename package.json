@@ -1,6 +1,6 @@
 {
   "name": "phuongtrinh-bac2-thangcaop",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "thangcaop",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "thangcaop",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/thangcaop/phuongtrinh-bac2-thangcaop/issues"
   },
